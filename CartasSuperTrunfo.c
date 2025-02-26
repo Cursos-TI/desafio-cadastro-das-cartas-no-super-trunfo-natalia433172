@@ -7,6 +7,19 @@
 //Teste larissa
 
 int main() {
+    printf("codigo da carta: A01");
+    printf("nome da cidade: Cuiaba");
+    printf(populcâo: 780,689");
+    printf("area em km: 4.318")
+    printf("PIB: 37,539,734,89");
+    printf("numero dos pontos turisticos: 6");
+
+    printf("codigo da carta: A02");
+    prinf("nome da cidade: Salvador");
+    printf("populacâo: 7,430,115");
+    printf("area em km: 543,5");
+    printf("PIB: 78,830");
+    printf("numero de pontos turisticos: 10");
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
