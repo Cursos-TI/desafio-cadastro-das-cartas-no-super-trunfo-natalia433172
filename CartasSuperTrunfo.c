@@ -7,19 +7,72 @@
 //Teste larissa
 
 int main() {
-    printf("codigo da carta: A01");
-    printf("nome da cidade: Cuiaba");
-    printf(populcâo: 780,689");
-    printf("area em km: 4.318")
-    printf("PIB: 37,539,734,89");
-    printf("numero dos pontos turisticos: 6");
 
-    printf("codigo da carta: A02");
-    prinf("nome da cidade: Salvador");
-    printf("populacâo: 7,430,115");
-    printf("area em km: 543,5");
-    printf("PIB: 78,830");
-    printf("numero de pontos turisticos: 10");
+    
+    printf("Digite o nome do Estado 1: \n");
+    scanf("%s", &Estado);
+
+    printf("Digite o Codigo da carta 1: \n");
+    scanf("%d", &codigo da carta);
+
+    printf("Digite o Nome da cidade 1: \n");
+    scanf("%s", &cidade);
+
+    printf("Digite a Populaçao 1: \n");
+    scanf("%f", &Populaçao);
+
+    printf("Digite a area (em km) 1: \n");
+    scanf("%f", &Area (em km);
+
+    printf("Digite o Pib 1: \n");
+    scanf("%f", &Pib);
+
+    printf("Digite Numero de Pontos Turisticos 1: \n");
+    scanf("%d", &Pontos Turisticos);
+   
+    Carta 1
+    char Estado 1= Nova York
+    char Codigo da carta 1= A01
+    char Nome da cidade 1= Nova York
+    int Populaçao 1= 10,390
+    flout Area (em km) 2= 993,8 
+    flout Pib 1= 2 trilhoes
+    int Numeros de Pontos Turisticos 1= 50
+
+
+    printf("Digite o nome do Estado 2: \n");
+    scanf("%s", &Estado);
+
+    printf("Digite o Codigo da carta 2: \n");
+    scanf("%d", &Codigo da carta);
+
+    printf("Digite o Nome da cidade 2: \n");
+    scanf("%s", &cidade);
+
+    printf("Digite Populaçao 2: \n");
+    scanf("%f", &Populaçao);
+
+    printf("Digite Area (em km) 2: \n");
+    scanf("%f", &Area (km);
+
+    printf("Digite Pib 2: \n");
+    scanf("%f", &Pib);
+
+    printf("Digite Numeros de Pontos Turisticos 2: \n");
+    scanf("%d", &Pontos Turisticos);
+
+    Carta 2
+    char Estado 2= Mato Grosso
+    char Codigo da carta 2= B02
+    char Nome da cidade 2= Cuiaba
+    int Populaçao 2= 780,689
+    flout Area (em km) 2= 4,318
+    flout Pib 2= 3,19 bilhoes
+    int Numeros de Pontos Turisticos 2= 15
+
+        
+        
+    
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
